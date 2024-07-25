@@ -12,7 +12,7 @@ Before you begin, make sure you have the following installed:
 
 ## Setup
 
-1. Clone this repository (if you haven't already):
+1. Clone this this  repository (if you haven't already):
 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
